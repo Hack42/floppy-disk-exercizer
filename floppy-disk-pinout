@@ -1,0 +1,40 @@
+Normal 34-pins connector
+
+Pin     PC          Osborne     PS/2 P70
+---     ----------  ----------  ----------
+ 1      GND         GND         GND
+ 2      ~HD SEL     GND         ~HD SEL
+ 3      GND         GND         +5V
+ 4      nc          GND         DRV TYPE
+ 5      GND         GND         GND
+ 6      nc          GND         +12V
+ 7      GND         GND         GND
+ 8      ~INDEX      ~INDEX      ~INDEX
+ 9      GND         GND         GND
+10      ~MOTEA      ~DRV SEL 1  RESERVED
+11      GND         +12V        GND
+12      ~DRVSB      ~DRV SEL 2  ~DRV SEL
+13      GND         +12V        GND
+14      ~DRVSA      nc          RESERVED
+15      GND         +12V        GND
+16      ~MOTEB      4 MHz       ~MOTE
+17      GND         +12V        GND
+18      ~DIR        ~DIR        ~DIR
+19      GND         GND         GND
+20      ~STEP       ~STEP       ~STEP
+21      GND         +5V         GND
+22      ~WRT DATA   ~WRT DATA   ~WRT DATA
+23      GND         +5V         GND
+24      ~WRT GATE   ~WRT GATE   ~WRT GATE
+25      GND         +5V         GND
+26      ~TRK00      TRK00       ~TRK00
+27      GND         GND         GND
+28      ~WRT PROT   ~WRT PROT   ~WRT_PROT
+29      GND         GND         GND
+30      ~RD DATA    ~RD DATA    ~RD DATA
+31      GND         GND         GND
+32      ~SIDE SEL   ~SIDE SEL   ~SIDE SEL
+33      GND         GND         GND
+34      ~DISKCHG    ~LATE       ~DSKCHG
+
+
